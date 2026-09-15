@@ -86,14 +86,6 @@
 
 ---
 
-
-## 🏆 Certifications
-
-- 🐍 [Programming for everybody(python)](https://coursera.org/share/186a7340d17ba7e1a81d9393386a7205)
-- 🗄️ [Ganerative AI: Prompt Engeneering basics](https://coursera.org/share/9300195d532d20315c897ff4f23233d2)
-
-👉 [View all my certificates](https://github.com/mishriamrutiya/certificates)
-
 ## 📊 GitHub Profile Summary
 
 <p align="center">
