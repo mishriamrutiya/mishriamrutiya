@@ -28,22 +28,6 @@
 * 📚 Always exploring new technologies
 
 > **Code • Learn • Build • Repeat 🚀**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mishriamrutiya">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mishriamrutiya&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Mishri's GitHub Stats" />
-  </a>
-  <a href="https://github.com/mishriamrutiya">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishriamrutiya&layout=compact&hide_border=true&theme=transparent" alt="Mishri's Top Languages" />
-  </a>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -52,13 +36,7 @@
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishriamrutiya&hide_border=true&area=true&custom_title=Mishri's%20Contribution%20Activity" alt="Mishri's Contribution Activity Graph" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -108,13 +86,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mishriamrutiya&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Mishri's GitHub Trophies" />
-</p>
+## 🏆 Certifications
 
----
+- 🐍 [Programming for everybody(python)](https://coursera.org/share/186a7340d17ba7e1a81d9393386a7205)
+- 🗄️ [Ganerative AI: Prompt Engeneering basics](https://coursera.org/share/9300195d532d20315c897ff4f23233d2)
+
+👉 [View all my certificates](https://github.com/mishriamrutiya/certificates)
 
 ## 📊 GitHub Profile Summary
 
